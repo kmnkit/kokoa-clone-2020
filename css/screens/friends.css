@@ -1,7 +1,7 @@
 #friends-display-link {
   text-align: center;
   display: block;
-  background-color: #fafafa;
+  background-color: var(--flower-top);
   padding: 10px 0px;
   font-size: 18px;
   margin-bottom: 10px;
