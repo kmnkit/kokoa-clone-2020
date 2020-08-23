@@ -22,6 +22,7 @@
 body {
   color: #2e363e;
   font-family: "Open Sans", sans-serif;
+  background-color: var(--v-body);
 }
 
 .main-screen {
